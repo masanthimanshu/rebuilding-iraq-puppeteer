@@ -1,0 +1,14 @@
+{
+  "name": "fill-form",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.11.1"
+  }
+}
